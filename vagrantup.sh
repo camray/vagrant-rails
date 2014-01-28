@@ -26,6 +26,8 @@ sudo -u postgres psql postgres -c "CREATE USER [USERNAME] WITH PASSWORD [PASSWOR
 sudo -u postgres psql -f sql.sql
 sudo rm sql.sql
 
+# Remove from here down if you don't have a rails project set up already. 
+
 cd /vagrant
 bundle
 # # I usually include a makefile that sets up the database
