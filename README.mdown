@@ -7,3 +7,7 @@ Comes with
 1. RVM
 1. Rails
 1. Postgres
+
+
+This assumes that you have a rails project initiated in the same directory where the Vagrantfile and vagrantup.sh are located. 
+If not, you can remove everything from the command "bundle" down and set it up yourself. 
