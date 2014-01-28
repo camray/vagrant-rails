@@ -1,0 +1,9 @@
+**Vagrant Rails**
+
+This is my general vagrant rails setup.
+
+Comes with
+
+1. RVM
+1. Rails
+1. Postgres
